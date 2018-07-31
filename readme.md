@@ -18,6 +18,8 @@ For words that begin with consonant sounds, the initial consonant or consonant c
 * "duck" → "uckday"
 * "glove" → "oveglay"
 
+Listen to pig latin:
+https://www.youtube.com/watch?v=fJ0olUYyRXI
 
 ### BONUS 1
 
