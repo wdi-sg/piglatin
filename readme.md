@@ -1,5 +1,7 @@
 # Words and Pig Latin
 
+![https://media.giphy.com/media/l0MYyiUFpfsua5r1u/giphy.gif](https://media.giphy.com/media/l0MYyiUFpfsua5r1u/giphy.gif)
+
 Write a function that takes a word as an argument and return the pig latin value of the word.
 
 Use puts to output that returned string value.
